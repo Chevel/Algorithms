@@ -9,3 +9,6 @@ Exercise repository for the Introduction to Algorithms book 📚
 - ✅ Swift
 - ✅ Xcode 16.2
 - ✅ MacOS Sequioa (15.4.1)
+
+## Resource
+https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/
