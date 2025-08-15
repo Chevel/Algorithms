@@ -14,9 +14,11 @@ enum Algorithm {
     var instructions: Double {
         switch self {
         case .insertionSort(let amount):
+            // c * n^2
             Double(constant) * pow(Double(amount), 2)
 
         case .mergeSort(let amount):
+            // c * n * lg(n)
             Double(constant) * Double(amount) * log2(Double(amount))
         }
     }
